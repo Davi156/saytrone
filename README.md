@@ -1,0 +1,2 @@
+# saytrone
+ inteligencia artificia
